@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:39:51Z",
+ "updated": "2026-09-03T18:55:39Z",
  "frames": [
+  {
+   "name": "1-6-SPENT-SIDE-GLASS-v1.png",
+   "preview": "1-6-SPENT-SIDE-GLASS-v1-preview.jpg",
+   "at": "2026-09-03T18:55:39Z",
+   "bytes": 1893069,
+   "preview_bytes": 97120,
+   "verdict": "side view, the glass sees through the skin, all dead",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-6-COLLAPSE-GLASS-LEG-v1.png",
    "preview": "1-6-COLLAPSE-GLASS-LEG-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 115345,
    "verdict": "the principle: one glass, no Manan, full magnification",
    "prompt_head": "The same picture as the reference and the same composition, with ONE CHANGE: THE"
-  },
-  {
-   "name": "1-4-D-v4.png",
-   "preview": "1-4-D-v4-preview.jpg",
-   "at": "2026-09-03T17:51:40Z",
-   "bytes": 1977035,
-   "preview_bytes": 124986,
-   "verdict": "approved frame, the glass now magnifies",
-   "prompt_head": "THE REFERENCE IMAGE, COMPLETELY UNCHANGED, is the whole picture. Keep every part"
   }
  ]
 }
