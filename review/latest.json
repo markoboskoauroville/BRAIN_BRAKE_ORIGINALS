@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:16:41Z",
+ "updated": "2026-09-03T18:27:06Z",
  "frames": [
+  {
+   "name": "1-6-COLLAPSE-GLASS-v1.png",
+   "preview": "1-6-COLLAPSE-GLASS-v1-preview.jpg",
+   "at": "2026-09-03T18:27:06Z",
+   "bytes": 2272403,
+   "preview_bytes": 123579,
+   "verdict": "the tired face, glass at the camera",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-5-FINISH-GLASS-v4.png",
    "preview": "1-5-FINISH-GLASS-v4-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 123917,
    "verdict": "the glass alone over the dead leg, no hand",
    "prompt_head": "A hand drawn pencil study on warm cream paper, the same graphite line and soft"
-  },
-  {
-   "name": "2-1-GLASS-LEG-v1.png",
-   "preview": "2-1-GLASS-LEG-v1-preview.jpg",
-   "at": "2026-09-03T17:21:20Z",
-   "bytes": 2139915,
-   "preview_bytes": 137001,
-   "verdict": "the glass over the leg, muscle beneath the skin",
-   "prompt_head": "The same drawing as the reference, the same warm cream paper, the same grey"
   }
  ]
 }
