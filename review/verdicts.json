@@ -3,5 +3,10 @@
   "verdict": "keep",
   "at": "2026-09-03T08:00:47Z",
   "note": ""
+ },
+ "9-1-VORTEX-UP-v1.png": {
+  "verdict": "redo",
+  "at": "2026-09-03T08:00:47Z",
+  "note": "too flat, no throat"
  }
 }
