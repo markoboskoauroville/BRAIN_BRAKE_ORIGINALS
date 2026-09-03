@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T08:08:20Z",
+ "updated": "2026-09-03T08:10:28Z",
  "frames": [
+  {
+   "name": "9-2-RISING-v2.png",
+   "preview": "9-2-RISING-v2-preview.jpg",
+   "at": "2026-09-03T08:10:28Z",
+   "bytes": 2109480,
+   "preview_bytes": 85638,
+   "verdict": "Manan in full colour, rising, clothes trailing down",
+   "prompt_head": "The same soft cloud vortex as the first reference, on the same warm cream paper"
+  },
   {
    "name": "9-2-RISING-v1.png",
    "preview": "9-2-RISING-v1-preview.jpg",
