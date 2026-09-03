@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T17:51:40Z",
+ "updated": "2026-09-03T17:53:41Z",
  "frames": [
+  {
+   "name": "1-4-E-GLASS-v1.png",
+   "preview": "1-4-E-GLASS-v1-preview.jpg",
+   "at": "2026-09-03T17:53:41Z",
+   "bytes": 1894063,
+   "preview_bytes": 115345,
+   "verdict": "the principle: one glass, no Manan, full magnification",
+   "prompt_head": "The same picture as the reference and the same composition, with ONE CHANGE: THE"
+  },
   {
    "name": "1-4-D-v4.png",
    "preview": "1-4-D-v4-preview.jpg",
@@ -98,15 +107,6 @@
    "bytes": 2287041,
    "preview_bytes": 144622,
    "verdict": "the dial, moved without looking",
-   "prompt_head": "The same room as the reference, the same drawing, the same warm cream paper and"
-  },
-  {
-   "name": "19-A1-ENTER-v1.png",
-   "preview": "19-A1-ENTER-v1-preview.jpg",
-   "at": "2026-09-03T09:05:51Z",
-   "bytes": 3505736,
-   "preview_bytes": 257245,
-   "verdict": "POV through the doorway, first sight of Coach Brain",
    "prompt_head": "The same room as the reference, the same drawing, the same warm cream paper and"
   }
  ]
