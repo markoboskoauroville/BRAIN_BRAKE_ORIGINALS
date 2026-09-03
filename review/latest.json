@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:36:02Z",
+ "updated": "2026-09-03T18:36:30Z",
  "frames": [
+  {
+   "name": "1-6-BULLET-45-v1.png",
+   "preview": "1-6-BULLET-45-v1-preview.jpg",
+   "at": "2026-09-03T18:36:30Z",
+   "bytes": 1631010,
+   "preview_bytes": 55840,
+   "verdict": "bullet time 45 degrees",
+   "prompt_head": "The same pencil drawing on the same warm cream paper as the reference, the same"
+  },
   {
    "name": "1-6-BULLET-30-v1.png",
    "preview": "1-6-BULLET-30-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 94618,
    "verdict": "glass in front of the whole figure, nothing missing",
    "prompt_head": "The same drawing as the first reference on the same warm cream paper: the"
-  },
-  {
-   "name": "2-2-INSPECT-LEG-TIRED-v2.png",
-   "preview": "2-2-INSPECT-LEG-TIRED-v2-preview.jpg",
-   "at": "2026-09-03T17:43:50Z",
-   "bytes": 2216272,
-   "preview_bytes": 132005,
-   "verdict": "inspection 2 v2, handle out of frame, real lens distortion",
-   "prompt_head": "Warm cream paper. A small light pencil drawing of a marathon runner low on the"
   }
  ]
 }
