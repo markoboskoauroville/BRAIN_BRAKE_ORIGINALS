@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:46:15Z",
+ "updated": "2026-09-03T19:47:39Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-GLASS-v3.png",
+   "preview": "1-7-RECOVERY-GLASS-v3-preview.jpg",
+   "at": "2026-09-03T19:47:39Z",
+   "bytes": 1725908,
+   "preview_bytes": 64470,
+   "verdict": "small glass, calf only, body intact, light contained",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-7-RECOVERY-OPEN-v2.png",
    "preview": "1-7-RECOVERY-OPEN-v2-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 135022,
    "verdict": "the glass becomes the doorway, ignition inside",
    "prompt_head": "THE FIRST REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
-  },
-  {
-   "name": "1-6-SPENT-SIDE-GLASS-v1.png",
-   "preview": "1-6-SPENT-SIDE-GLASS-v1-preview.jpg",
-   "at": "2026-09-03T18:55:39Z",
-   "bytes": 1893069,
-   "preview_bytes": 97120,
-   "verdict": "side view, the glass sees through the skin, all dead",
-   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
   }
  ]
 }
