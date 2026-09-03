@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T17:36:59Z",
+ "updated": "2026-09-03T17:43:50Z",
  "frames": [
+  {
+   "name": "2-2-INSPECT-LEG-TIRED-v2.png",
+   "preview": "2-2-INSPECT-LEG-TIRED-v2-preview.jpg",
+   "at": "2026-09-03T17:43:50Z",
+   "bytes": 2216272,
+   "preview_bytes": 132005,
+   "verdict": "inspection 2 v2, handle out of frame, real lens distortion",
+   "prompt_head": "Warm cream paper. A small light pencil drawing of a marathon runner low on the"
+  },
   {
    "name": "2-2-INSPECT-LEG-TIRED-v1.png",
    "preview": "2-2-INSPECT-LEG-TIRED-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 26829,
    "verdict": "Manan layer, alone on flat black for keying",
    "prompt_head": "The boy from the reference, alone, in exactly the same pose, at exactly the same"
-  },
-  {
-   "name": "9-2-RISING-v2_CLOUD.png",
-   "preview": "9-2-RISING-v2_CLOUD-preview.jpg",
-   "at": "2026-09-03T08:33:10Z",
-   "bytes": 2093547,
-   "preview_bytes": 72690,
-   "verdict": "cloud layer, boy removed",
-   "prompt_head": "The same picture as the reference, the same warm cream paper, the same grey"
   }
  ]
 }
