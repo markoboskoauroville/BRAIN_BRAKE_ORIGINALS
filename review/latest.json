@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:05:52Z",
+ "updated": "2026-09-03T19:10:37Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-v1.png",
+   "preview": "1-7-RECOVERY-v1-preview.jpg",
+   "at": "2026-09-03T19:10:37Z",
+   "bytes": 1992658,
+   "preview_bytes": 88284,
+   "verdict": "recovery pose, leg open, light starting, clean",
+   "prompt_head": "The same pencil drawing on the same warm cream paper, the same hand, the same"
+  },
   {
    "name": "1-6-COLLAPSE-OPEN-v1.png",
    "preview": "1-6-COLLAPSE-OPEN-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 286991,
    "verdict": "step 3, the banner through the glass",
    "prompt_head": "A PHOTOREALISTIC MAGNIFYING GLASS, seen close, filling most of the frame."
-  },
-  {
-   "name": "BANNER_SHARP-v1.png",
-   "preview": "BANNER_SHARP-v1-preview.jpg",
-   "at": "2026-09-03T18:10:24Z",
-   "bytes": 3448212,
-   "preview_bytes": 255469,
-   "verdict": "step 2, the banner redrawn sharp in the same hand",
-   "prompt_head": "THE SAME DRAWING AS THE REFERENCE, REDRAWN CLEANLY AT FULL RESOLUTION. It is a"
   }
  ]
 }
