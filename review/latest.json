@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:40:06Z",
+ "updated": "2026-09-03T19:41:25Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-GLASS-v2.png",
+   "preview": "1-7-RECOVERY-GLASS-v2-preview.jpg",
+   "at": "2026-09-03T19:41:25Z",
+   "bytes": 2040126,
+   "preview_bytes": 106849,
+   "verdict": "recovery pose, glass on the spark",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-7-RECOVERY-OPEN-v1.png",
    "preview": "1-7-RECOVERY-OPEN-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 110920,
    "verdict": "the glass sees through the skin, all of it dead",
    "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
-  },
-  {
-   "name": "1-6-BULLET-45-v1.png",
-   "preview": "1-6-BULLET-45-v1-preview.jpg",
-   "at": "2026-09-03T18:36:30Z",
-   "bytes": 1631010,
-   "preview_bytes": 55840,
-   "verdict": "bullet time 45 degrees",
-   "prompt_head": "The same pencil drawing on the same warm cream paper as the reference, the same"
   }
  ]
 }
