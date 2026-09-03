@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T17:27:56Z",
+ "updated": "2026-09-03T17:33:23Z",
  "frames": [
+  {
+   "name": "2-1-INSPECT-FACE-TIRED-v1.png",
+   "preview": "2-1-INSPECT-FACE-TIRED-v1-preview.jpg",
+   "at": "2026-09-03T17:33:23Z",
+   "bytes": 2594544,
+   "preview_bytes": 110923,
+   "verdict": "inspection 1, the tired face, photoreal glass",
+   "prompt_head": "Warm cream paper with a pencil drawing on it, grey graphite line and soft"
+  },
   {
    "name": "2-1-GLASS-LEG-v2.png",
    "preview": "2-1-GLASS-LEG-v2-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 85638,
    "verdict": "Manan in full colour, rising correctly, world stays graphite",
    "prompt_head": "The same soft cloud vortex as the first reference"
-  },
-  {
-   "name": "9-2-RISING-v1.png",
-   "preview": "9-2-RISING-v1-preview.jpg",
-   "at": "2026-09-03T08:08:20Z",
-   "bytes": 2151512,
-   "preview_bytes": 84976,
-   "verdict": "rising, photographic boy, clothes trailing down",
-   "prompt_head": "The same soft cloud vortex as the first reference, on the same warm cream paper"
   }
  ]
 }
