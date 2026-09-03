@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T20:01:00Z",
+ "updated": "2026-09-03T20:02:27Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-GLASS-v7.png",
+   "preview": "1-7-RECOVERY-GLASS-v7-preview.jpg",
+   "at": "2026-09-03T20:02:27Z",
+   "bytes": 2084210,
+   "preview_bytes": 105172,
+   "verdict": "glass centred on the calf, leg aligned",
+   "prompt_head": "THE SAME DRAWING AS THE REFERENCE, FRAMED CLOSER, WITH A MAGNIFYING GLASS."
+  },
   {
    "name": "1-6-BULLET-090-DRAWN-v1.png",
    "preview": "1-6-BULLET-090-DRAWN-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 53639,
    "verdict": "risen, almost standing straight",
    "prompt_head": "THIS IS THE SAME DRAWING AS THE REFERENCE, WITH ONE CHANGE."
-  },
-  {
-   "name": "1-7-RECOVERY-v2.png",
-   "preview": "1-7-RECOVERY-v2-preview.jpg",
-   "at": "2026-09-03T19:15:52Z",
-   "bytes": 1648404,
-   "preview_bytes": 55858,
-   "verdict": "one instant after the collapse, the face changes",
-   "prompt_head": "THIS IS THE SAME DRAWING AS THE REFERENCE, ONE INSTANT LATER."
   }
  ]
 }
