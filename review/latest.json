@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T08:33:10Z",
+ "updated": "2026-09-03T08:33:45Z",
  "frames": [
+  {
+   "name": "9-2-RISING-v2_MANAN.png",
+   "preview": "9-2-RISING-v2_MANAN-preview.jpg",
+   "at": "2026-09-03T08:33:45Z",
+   "bytes": 1074254,
+   "preview_bytes": 26829,
+   "verdict": "Manan layer, alone on flat black for keying",
+   "prompt_head": "The boy from the reference, alone, in exactly the same pose, at exactly the same"
+  },
   {
    "name": "9-2-RISING-v2_CLOUD.png",
    "preview": "9-2-RISING-v2_CLOUD-preview.jpg",
