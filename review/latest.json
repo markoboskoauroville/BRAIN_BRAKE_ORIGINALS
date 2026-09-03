@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T08:38:19Z",
+ "updated": "2026-09-03T09:05:51Z",
  "frames": [
+  {
+   "name": "19-A1-ENTER-v1.png",
+   "preview": "19-A1-ENTER-v1-preview.jpg",
+   "at": "2026-09-03T09:05:51Z",
+   "bytes": 3505736,
+   "preview_bytes": 257245,
+   "verdict": "POV through the doorway, first sight of Coach Brain",
+   "prompt_head": "The same room as the reference, the same drawing, the same warm cream paper and"
+  },
   {
    "name": "9-3-RISING-v1.png",
    "preview": "9-3-RISING-v1-preview.jpg",
