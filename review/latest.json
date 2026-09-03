@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T20:13:09Z",
+ "updated": "2026-09-03T20:16:55Z",
  "frames": [
+  {
+   "name": "1-4-SEES-v1.png",
+   "preview": "1-4-SEES-v1-preview.jpg",
+   "at": "2026-09-03T20:16:55Z",
+   "bytes": 3467147,
+   "preview_bytes": 282748,
+   "verdict": "he sees the finish, over his shoulder",
+   "prompt_head": "The same pencil drawing on the same warm cream paper as the first reference: the"
+  },
   {
    "name": "1-7-RECOVERY-GLASS-FACE-v1.png",
    "preview": "1-7-RECOVERY-GLASS-FACE-v1-preview.jpg",
@@ -98,15 +107,6 @@
    "bytes": 2040126,
    "preview_bytes": 106849,
    "verdict": "recovery pose, glass on the spark",
-   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
-  },
-  {
-   "name": "1-7-RECOVERY-OPEN-v1.png",
-   "preview": "1-7-RECOVERY-OPEN-v1-preview.jpg",
-   "at": "2026-09-03T19:40:06Z",
-   "bytes": 1591555,
-   "preview_bytes": 52796,
-   "verdict": "recovery pose, leg opened, spark started",
    "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
   }
  ]
