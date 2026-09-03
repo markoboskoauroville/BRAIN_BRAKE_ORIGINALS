@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T17:33:23Z",
+ "updated": "2026-09-03T17:36:59Z",
  "frames": [
+  {
+   "name": "2-2-INSPECT-LEG-TIRED-v1.png",
+   "preview": "2-2-INSPECT-LEG-TIRED-v1-preview.jpg",
+   "at": "2026-09-03T17:36:59Z",
+   "bytes": 2083299,
+   "preview_bytes": 107063,
+   "verdict": "inspection 2, the dead leg, glass to the side",
+   "prompt_head": "Warm cream paper. The SAME COMPOSITION as before: a small light pencil drawing"
+  },
   {
    "name": "2-1-INSPECT-FACE-TIRED-v1.png",
    "preview": "2-1-INSPECT-FACE-TIRED-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 72690,
    "verdict": "cloud layer, boy removed",
    "prompt_head": "The same picture as the reference, the same warm cream paper, the same grey"
-  },
-  {
-   "name": "9-2-RISING-v2.png",
-   "preview": "9-2-RISING-v2-preview.jpg",
-   "at": "2026-09-03T08:25:22Z",
-   "bytes": 2109480,
-   "preview_bytes": 85638,
-   "verdict": "Manan in full colour, rising correctly, world stays graphite",
-   "prompt_head": "The same soft cloud vortex as the first reference"
   }
  ]
 }
