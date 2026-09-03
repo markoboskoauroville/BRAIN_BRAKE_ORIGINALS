@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:31:55Z",
+ "updated": "2026-09-03T18:35:29Z",
  "frames": [
+  {
+   "name": "1-6-BULLET-15-v1.png",
+   "preview": "1-6-BULLET-15-v1-preview.jpg",
+   "at": "2026-09-03T18:35:29Z",
+   "bytes": 1686754,
+   "preview_bytes": 55871,
+   "verdict": "bullet time 15 degrees",
+   "prompt_head": "The same pencil drawing on the same warm cream paper as the reference, the same"
+  },
   {
    "name": "1-6-SPENT-SIDE-v1.png",
    "preview": "1-6-SPENT-SIDE-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 107063,
    "verdict": "inspection 2, the dead leg, glass to the side",
    "prompt_head": "Warm cream paper. The SAME COMPOSITION as before: a small light pencil drawing"
-  },
-  {
-   "name": "2-1-INSPECT-FACE-TIRED-v1.png",
-   "preview": "2-1-INSPECT-FACE-TIRED-v1-preview.jpg",
-   "at": "2026-09-03T17:33:23Z",
-   "bytes": 2594544,
-   "preview_bytes": 110923,
-   "verdict": "inspection 1, the tired face, photoreal glass",
-   "prompt_head": "Warm cream paper with a pencil drawing on it, grey graphite line and soft"
   }
  ]
 }
