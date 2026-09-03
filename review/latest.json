@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:18:30Z",
+ "updated": "2026-09-03T19:28:58Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-v5.png",
+   "preview": "1-7-RECOVERY-v5-preview.jpg",
+   "at": "2026-09-03T19:28:58Z",
+   "bytes": 1519016,
+   "preview_bytes": 44987,
+   "verdict": "upright, in profile, about to go",
+   "prompt_head": "THE SAME MAN AS THE REFERENCE, WITH ONE CHANGE."
+  },
   {
    "name": "1-7-RECOVERY-v4.png",
    "preview": "1-7-RECOVERY-v4-preview.jpg",
@@ -98,15 +107,6 @@
    "bytes": 1713418,
    "preview_bytes": 56555,
    "verdict": "bullet time 30 degrees",
-   "prompt_head": "The same pencil drawing on the same warm cream paper as the reference, the same"
-  },
-  {
-   "name": "1-6-BULLET-15-v1.png",
-   "preview": "1-6-BULLET-15-v1-preview.jpg",
-   "at": "2026-09-03T18:35:29Z",
-   "bytes": 1686754,
-   "preview_bytes": 55871,
-   "verdict": "bullet time 15 degrees",
    "prompt_head": "The same pencil drawing on the same warm cream paper as the reference, the same"
   }
  ]
