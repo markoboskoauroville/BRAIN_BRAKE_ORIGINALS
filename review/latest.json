@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:11:47Z",
+ "updated": "2026-09-03T18:16:41Z",
  "frames": [
+  {
+   "name": "1-5-FINISH-GLASS-v4.png",
+   "preview": "1-5-FINISH-GLASS-v4-preview.jpg",
+   "at": "2026-09-03T18:16:41Z",
+   "bytes": 2914357,
+   "preview_bytes": 204003,
+   "verdict": "glass at the camera lens, wide shot unchanged",
+   "prompt_head": "THE FIRST REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same wide"
+  },
   {
    "name": "FIN_THROUGH_GLASS-v1.png",
    "preview": "FIN_THROUGH_GLASS-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 137001,
    "verdict": "the glass over the leg, muscle beneath the skin",
    "prompt_head": "The same drawing as the reference, the same warm cream paper, the same grey"
-  },
-  {
-   "name": "19-A3-ARM-v2.png",
-   "preview": "19-A3-ARM-v2-preview.jpg",
-   "at": "2026-09-03T09:19:39Z",
-   "bytes": 3755441,
-   "preview_bytes": 279640,
-   "verdict": "POV, the arm sinking back, small in the corner",
-   "prompt_head": "The same room as the first reference, the same drawing, the same warm cream paper"
   }
  ]
 }
