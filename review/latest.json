@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T08:33:45Z",
+ "updated": "2026-09-03T08:38:19Z",
  "frames": [
+  {
+   "name": "9-3-RISING-v1.png",
+   "preview": "9-3-RISING-v1-preview.jpg",
+   "at": "2026-09-03T08:38:19Z",
+   "bytes": 2622391,
+   "preview_bytes": 128933,
+   "verdict": "close to the throat, face clear, rising",
+   "prompt_head": "The same soft cloud vortex as the reference, the same warm cream paper, the same"
+  },
   {
    "name": "9-2-RISING-v2_MANAN.png",
    "preview": "9-2-RISING-v2_MANAN-preview.jpg",
