@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T20:04:15Z",
+ "updated": "2026-09-03T20:12:15Z",
  "frames": [
+  {
+   "name": "1-6-COLLAPSE-GLASS-LEG-v2.png",
+   "preview": "1-6-COLLAPSE-GLASS-LEG-v2-preview.jpg",
+   "at": "2026-09-03T20:12:15Z",
+   "bytes": 1874585,
+   "preview_bytes": 79838,
+   "verdict": "inspection two, the dead leg",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-7-RECOVERY-GLASS-v8.png",
    "preview": "1-7-RECOVERY-GLASS-v8-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 44987,
    "verdict": "upright, in profile, about to go",
    "prompt_head": "THE SAME MAN AS THE REFERENCE, WITH ONE CHANGE."
-  },
-  {
-   "name": "1-7-RECOVERY-v4.png",
-   "preview": "1-7-RECOVERY-v4-preview.jpg",
-   "at": "2026-09-03T19:18:30Z",
-   "bytes": 1595284,
-   "preview_bytes": 44262,
-   "verdict": "standing, legs under him",
-   "prompt_head": "THE SAME MAN AS THE REFERENCE, DRAWN STANDING UP."
   }
  ]
 }
