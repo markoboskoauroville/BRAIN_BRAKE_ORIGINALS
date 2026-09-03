@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:41:25Z",
+ "updated": "2026-09-03T19:46:15Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-OPEN-v2.png",
+   "preview": "1-7-RECOVERY-OPEN-v2-preview.jpg",
+   "at": "2026-09-03T19:46:15Z",
+   "bytes": 1498517,
+   "preview_bytes": 49816,
+   "verdict": "light contained inside the leg",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-7-RECOVERY-GLASS-v2.png",
    "preview": "1-7-RECOVERY-GLASS-v2-preview.jpg",
@@ -98,15 +107,6 @@
    "bytes": 1893069,
    "preview_bytes": 97120,
    "verdict": "side view, the glass sees through the skin, all dead",
-   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
-  },
-  {
-   "name": "1-6-COLLAPSE-GLASS-LEG-v1.png",
-   "preview": "1-6-COLLAPSE-GLASS-LEG-v1-preview.jpg",
-   "at": "2026-09-03T18:39:51Z",
-   "bytes": 2100990,
-   "preview_bytes": 110920,
-   "verdict": "the glass sees through the skin, all of it dead",
    "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
   }
  ]
