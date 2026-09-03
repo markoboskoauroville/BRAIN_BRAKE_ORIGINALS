@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T09:13:09Z",
+ "updated": "2026-09-03T09:14:52Z",
  "frames": [
+  {
+   "name": "19-A3-ARM-v1.png",
+   "preview": "19-A3-ARM-v1-preview.jpg",
+   "at": "2026-09-03T09:14:52Z",
+   "bytes": 3819339,
+   "preview_bytes": 291582,
+   "verdict": "POV, his own arm will not rise",
+   "prompt_head": "The same room as the reference, the same drawing, the same warm cream paper and"
+  },
   {
    "name": "19-A2-EXPECTING-v1.png",
    "preview": "19-A2-EXPECTING-v1-preview.jpg",
