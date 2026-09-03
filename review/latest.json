@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:27:06Z",
+ "updated": "2026-09-03T18:31:55Z",
  "frames": [
+  {
+   "name": "1-6-SPENT-SIDE-v1.png",
+   "preview": "1-6-SPENT-SIDE-v1-preview.jpg",
+   "at": "2026-09-03T18:31:55Z",
+   "bytes": 1633518,
+   "preview_bytes": 67959,
+   "verdict": "the tired runner, side view, still upright",
+   "prompt_head": "A pencil drawing on warm cream paper, the same hand and the same graphite as the"
+  },
   {
    "name": "1-6-COLLAPSE-GLASS-v1.png",
    "preview": "1-6-COLLAPSE-GLASS-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 110923,
    "verdict": "inspection 1, the tired face, photoreal glass",
    "prompt_head": "Warm cream paper with a pencil drawing on it, grey graphite line and soft"
-  },
-  {
-   "name": "2-1-GLASS-LEG-v2.png",
-   "preview": "2-1-GLASS-LEG-v2-preview.jpg",
-   "at": "2026-09-03T17:27:56Z",
-   "bytes": 2058048,
-   "preview_bytes": 123917,
-   "verdict": "the glass alone over the dead leg, no hand",
-   "prompt_head": "A hand drawn pencil study on warm cream paper, the same graphite line and soft"
   }
  ]
 }
