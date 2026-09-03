@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:10:37Z",
+ "updated": "2026-09-03T19:13:14Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-GLASS-v1.png",
+   "preview": "1-7-RECOVERY-GLASS-v1-preview.jpg",
+   "at": "2026-09-03T19:13:14Z",
+   "bytes": 2251695,
+   "preview_bytes": 129965,
+   "verdict": "recovery pose with the glass on the spark",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-7-RECOVERY-v1.png",
    "preview": "1-7-RECOVERY-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 204003,
    "verdict": "glass at the camera lens, wide shot unchanged",
    "prompt_head": "THE FIRST REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same wide"
-  },
-  {
-   "name": "FIN_THROUGH_GLASS-v1.png",
-   "preview": "FIN_THROUGH_GLASS-v1-preview.jpg",
-   "at": "2026-09-03T18:11:47Z",
-   "bytes": 3561235,
-   "preview_bytes": 286991,
-   "verdict": "step 3, the banner through the glass",
-   "prompt_head": "A PHOTOREALISTIC MAGNIFYING GLASS, seen close, filling most of the frame."
   }
  ]
 }
