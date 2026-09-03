@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:10:24Z",
+ "updated": "2026-09-03T18:11:47Z",
  "frames": [
+  {
+   "name": "FIN_THROUGH_GLASS-v1.png",
+   "preview": "FIN_THROUGH_GLASS-v1-preview.jpg",
+   "at": "2026-09-03T18:11:47Z",
+   "bytes": 3561235,
+   "preview_bytes": 286991,
+   "verdict": "step 3, the banner through the glass",
+   "prompt_head": "A PHOTOREALISTIC MAGNIFYING GLASS, seen close, filling most of the frame."
+  },
   {
    "name": "BANNER_SHARP-v1.png",
    "preview": "BANNER_SHARP-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 279640,
    "verdict": "POV, the arm sinking back, small in the corner",
    "prompt_head": "The same room as the first reference, the same drawing, the same warm cream paper"
-  },
-  {
-   "name": "19-A3-ARM-v1.png",
-   "preview": "19-A3-ARM-v1-preview.jpg",
-   "at": "2026-09-03T09:14:52Z",
-   "bytes": 3819339,
-   "preview_bytes": 291582,
-   "verdict": "POV, his own arm will not rise",
-   "prompt_head": "The same room as the reference, the same drawing, the same warm cream paper and"
   }
  ]
 }
