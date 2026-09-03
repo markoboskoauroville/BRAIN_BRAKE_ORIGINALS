@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T19:55:12Z",
+ "updated": "2026-09-03T20:01:00Z",
  "frames": [
+  {
+   "name": "1-6-BULLET-090-DRAWN-v1.png",
+   "preview": "1-6-BULLET-090-DRAWN-v1-preview.jpg",
+   "at": "2026-09-03T20:01:00Z",
+   "bytes": 1658657,
+   "preview_bytes": 58976,
+   "verdict": "drawn orbit test, 90 degrees",
+   "prompt_head": "THE SAME DRAWING AS THE REFERENCE, SEEN FROM 90 DEGREES FURTHER ROUND."
+  },
   {
    "name": "1-6-BULLET-000-DRAWN-v1.png",
    "preview": "1-6-BULLET-000-DRAWN-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 55858,
    "verdict": "one instant after the collapse, the face changes",
    "prompt_head": "THIS IS THE SAME DRAWING AS THE REFERENCE, ONE INSTANT LATER."
-  },
-  {
-   "name": "1-7-RECOVERY-GLASS-v1.png",
-   "preview": "1-7-RECOVERY-GLASS-v1-preview.jpg",
-   "at": "2026-09-03T19:13:14Z",
-   "bytes": 2251695,
-   "preview_bytes": 129965,
-   "verdict": "recovery pose with the glass on the spark",
-   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
   }
  ]
 }
