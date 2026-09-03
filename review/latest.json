@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T17:43:50Z",
+ "updated": "2026-09-03T17:48:39Z",
  "frames": [
+  {
+   "name": "2-2-INSPECT-LEG-TIRED-v3.png",
+   "preview": "2-2-INSPECT-LEG-TIRED-v3-preview.jpg",
+   "at": "2026-09-03T17:48:39Z",
+   "bytes": 2447663,
+   "preview_bytes": 94618,
+   "verdict": "glass in front of the whole figure, nothing missing",
+   "prompt_head": "The same drawing as the first reference on the same warm cream paper: the"
+  },
   {
    "name": "2-2-INSPECT-LEG-TIRED-v2.png",
    "preview": "2-2-INSPECT-LEG-TIRED-v2-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 128933,
    "verdict": "close to the throat, face clear, rising",
    "prompt_head": "The same soft cloud vortex as the reference, the same warm cream paper, the same"
-  },
-  {
-   "name": "9-2-RISING-v2_MANAN.png",
-   "preview": "9-2-RISING-v2_MANAN-preview.jpg",
-   "at": "2026-09-03T08:33:45Z",
-   "bytes": 1074254,
-   "preview_bytes": 26829,
-   "verdict": "Manan layer, alone on flat black for keying",
-   "prompt_head": "The boy from the reference, alone, in exactly the same pose, at exactly the same"
   }
  ]
 }
