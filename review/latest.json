@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T20:12:15Z",
+ "updated": "2026-09-03T20:13:09Z",
  "frames": [
+  {
+   "name": "1-7-RECOVERY-GLASS-FACE-v1.png",
+   "preview": "1-7-RECOVERY-GLASS-FACE-v1-preview.jpg",
+   "at": "2026-09-03T20:13:09Z",
+   "bytes": 2119167,
+   "preview_bytes": 108031,
+   "verdict": "inspection four, the transformed face",
+   "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-6-COLLAPSE-GLASS-LEG-v2.png",
    "preview": "1-6-COLLAPSE-GLASS-LEG-v2-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 52796,
    "verdict": "recovery pose, leg opened, spark started",
    "prompt_head": "THE REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
-  },
-  {
-   "name": "1-7-RECOVERY-v5.png",
-   "preview": "1-7-RECOVERY-v5-preview.jpg",
-   "at": "2026-09-03T19:28:58Z",
-   "bytes": 1519016,
-   "preview_bytes": 44987,
-   "verdict": "upright, in profile, about to go",
-   "prompt_head": "THE SAME MAN AS THE REFERENCE, WITH ONE CHANGE."
   }
  ]
 }
