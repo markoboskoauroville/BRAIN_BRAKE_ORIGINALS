@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T09:14:52Z",
+ "updated": "2026-09-03T09:19:39Z",
  "frames": [
+  {
+   "name": "19-A3-ARM-v2.png",
+   "preview": "19-A3-ARM-v2-preview.jpg",
+   "at": "2026-09-03T09:19:39Z",
+   "bytes": 3755441,
+   "preview_bytes": 279640,
+   "verdict": "POV, the arm sinking back, small in the corner",
+   "prompt_head": "The same room as the first reference, the same drawing, the same warm cream paper"
+  },
   {
    "name": "19-A3-ARM-v1.png",
    "preview": "19-A3-ARM-v1-preview.jpg",
