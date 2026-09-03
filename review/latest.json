@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T09:19:39Z",
+ "updated": "2026-09-03T17:21:20Z",
  "frames": [
+  {
+   "name": "2-1-GLASS-LEG-v1.png",
+   "preview": "2-1-GLASS-LEG-v1-preview.jpg",
+   "at": "2026-09-03T17:21:20Z",
+   "bytes": 2139915,
+   "preview_bytes": 137001,
+   "verdict": "the glass over the leg, muscle beneath the skin",
+   "prompt_head": "The same drawing as the reference, the same warm cream paper, the same grey"
+  },
   {
    "name": "19-A3-ARM-v2.png",
    "preview": "19-A3-ARM-v2-preview.jpg",
