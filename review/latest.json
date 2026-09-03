@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T18:55:39Z",
+ "updated": "2026-09-03T19:01:19Z",
  "frames": [
+  {
+   "name": "1-6-SPENT-SIDE-GLASS-v2.png",
+   "preview": "1-6-SPENT-SIDE-GLASS-v2-preview.jpg",
+   "at": "2026-09-03T19:01:19Z",
+   "bytes": 2309308,
+   "preview_bytes": 135022,
+   "verdict": "the glass becomes the doorway, ignition inside",
+   "prompt_head": "THE FIRST REFERENCE IS THE WHOLE PICTURE AND IT DOES NOT CHANGE. The same pencil"
+  },
   {
    "name": "1-6-SPENT-SIDE-GLASS-v1.png",
    "preview": "1-6-SPENT-SIDE-GLASS-v1-preview.jpg",
@@ -99,15 +108,6 @@
    "preview_bytes": 278541,
    "verdict": "the small glass on the banner, F I N",
    "prompt_head": "THE REFERENCE IMAGE UNCHANGED is the whole picture: the same pencil drawing on"
-  },
-  {
-   "name": "1-4-E-GLASS-v1.png",
-   "preview": "1-4-E-GLASS-v1-preview.jpg",
-   "at": "2026-09-03T17:53:41Z",
-   "bytes": 1894063,
-   "preview_bytes": 115345,
-   "verdict": "the principle: one glass, no Manan, full magnification",
-   "prompt_head": "The same picture as the reference and the same composition, with ONE CHANGE: THE"
   }
  ]
 }
