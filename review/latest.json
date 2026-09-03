@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-03T07:58:23Z",
+ "updated": "2026-09-03T08:08:20Z",
  "frames": [
+  {
+   "name": "9-2-RISING-v1.png",
+   "preview": "9-2-RISING-v1-preview.jpg",
+   "at": "2026-09-03T08:08:20Z",
+   "bytes": 2151512,
+   "preview_bytes": 84976,
+   "verdict": "rising, photographic boy, clothes trailing down",
+   "prompt_head": "The same soft cloud vortex as the first reference, on the same warm cream paper"
+  },
   {
    "name": "9-1-VORTEX-UP-v1.png",
    "preview": "9-1-VORTEX-UP-v1-preview.jpg",
